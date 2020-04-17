@@ -1,4 +1,4 @@
-# caclulate the molecular weight of a carbohydrate
+# calc the molecular weight of a carbohydrate
 
 xxx = ['H', 'C', 'O']
 elements = set(xxx)
